@@ -7,7 +7,7 @@ define(["firebase"], function (Firebase) {
 
   // Unique Firebase app name -- REPLACE THIS WITH YOUR APP NAME IF YOU WANT
   // TO FORK THIS REPO!
-  var myFirebaseApp = "talksyoushouldwatch";
+  var myFirebaseApp = "femmehacks2016";
 
   // Reference to our entire Firebase database
   var firebaseApp = new Firebase("https://" + myFirebaseApp + ".firebaseio.com");
